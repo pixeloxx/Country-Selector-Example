@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fac4ff34-f42a-45b3-b367-b853e288285c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1Zx5Ph97E0vmoMKEqVU2NyBEraz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/P5js_Template/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fac4ff34-f42a-45b3-b367-b853e288285c" name="Default Changelist" comment="" />
+      <created>1585767881118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585767881118</updated>
+      <workItem from="1585767882509" duration="7544000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="237" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1585768710273">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="237" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.0.1440.900@0.0.1440.900" timestamp="1585768710273" />
+    <state width="1419" height="238" key="GridCell.Tab.0.bottom" timestamp="1586181289472">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1419" height="238" key="GridCell.Tab.0.bottom/2560.540.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1586181289472" />
+    <state width="1419" height="238" key="GridCell.Tab.0.center" timestamp="1586181289471">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1419" height="238" key="GridCell.Tab.0.center/2560.540.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1586181289471" />
+    <state width="1419" height="238" key="GridCell.Tab.0.left" timestamp="1586181289470">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1419" height="238" key="GridCell.Tab.0.left/2560.540.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1586181289470" />
+    <state width="1419" height="238" key="GridCell.Tab.0.right" timestamp="1586181289471">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1419" height="238" key="GridCell.Tab.0.right/2560.540.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1586181289471" />
+    <state width="1398" height="238" key="GridCell.Tab.1.bottom" timestamp="1586181289458">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1398" height="238" key="GridCell.Tab.1.bottom/2560.540.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1586181289458" />
+    <state width="1398" height="238" key="GridCell.Tab.1.center" timestamp="1586181289457">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1398" height="238" key="GridCell.Tab.1.center/2560.540.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1586181289457" />
+    <state width="1398" height="238" key="GridCell.Tab.1.left" timestamp="1586181289457">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1398" height="238" key="GridCell.Tab.1.left/2560.540.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1586181289457" />
+    <state width="1398" height="238" key="GridCell.Tab.1.right" timestamp="1586181289457">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1398" height="238" key="GridCell.Tab.1.right/2560.540.1440.900/0.0.2560.1440@0.0.2560.1440" timestamp="1586181289457" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1585769074928">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1585769074928" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/P5js_Template$index_html.dat" NAME="index.html Coverage Results" MODIFIED="1586180958611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
