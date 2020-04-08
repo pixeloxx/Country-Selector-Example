@@ -2,26 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fac4ff34-f42a-45b3-b367-b853e288285c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countries.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flags16-iso-3166-1-alpha-2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flags16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flags32-iso-3166-1-alpha-2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flags32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P5js_Instance_Mode/.idea/P5js_Template.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P5js_Instance_Mode/.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P5js_Instance_Mode/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P5js_Instance_Mode/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P5js_Instance_Mode/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P5js_Instance_Mode/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P5js_Instance_Mode/lib/p5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P5js_Instance_Mode/lib/p5.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P5js_Instance_Mode/sketch.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sketch.js" beforeDir="false" afterPath="$PROJECT_DIR$/sketch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/P5js_Template.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../src/.idea/P5js_Template.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../src/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../src/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../src/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../src/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../src/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../src/countries.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flags16-iso-3166-1-alpha-2.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/flags16-iso-3166-1-alpha-2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flags16.png" beforeDir="false" afterPath="$PROJECT_DIR$/../src/flags16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flags32-iso-3166-1-alpha-2.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/flags32-iso-3166-1-alpha-2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flags32.png" beforeDir="false" afterPath="$PROJECT_DIR$/../src/flags32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/p5.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/lib/p5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/p5.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/lib/p5.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sketch.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/sketch.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +51,6 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -90,7 +84,7 @@
       <updated>1585767881118</updated>
       <workItem from="1585767882509" duration="7544000" />
       <workItem from="1586185034237" duration="18725000" />
-      <workItem from="1586331794353" duration="1378000" />
+      <workItem from="1586331794353" duration="1734000" />
     </task>
     <servers />
   </component>
